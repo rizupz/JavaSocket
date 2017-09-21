@@ -20,7 +20,7 @@ Java 8
 
 ## Authors
 
-* **Karim Zerioh ** - *Initial work* - [Zerioh](http://zerioh.tripod.com/index.html)
+* **Karim Zerioh** - *Initial work* - [Zerioh](http://zerioh.tripod.com/index.html)
 * **rizupz** - *Forking*
 
 ## Reference
